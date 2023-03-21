@@ -9,4 +9,12 @@ Crea un pull request sobre este archivo readme añadiendo tu librería.
 
 |Lenguaje / Language|Librería / Library|Estado/Status|
 |-------------------|------------------|-------------|
-|                   |                  |             |
+| PHP               | [verifactu-php](https://github.com/Eseperio/verifactu-php)    | En desarrollo / Under development             |
+| Java                   |                  |             |
+| Javascript/nodejs                  |                  |             |
+| Go                   |                  |             |
+| Ruby                |                  |             |
+| Python              |                  |             |
+| C#                  |                  |             |
+| C++                  |                  |             |
+| Rust
