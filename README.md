@@ -1,7 +1,7 @@
 # Verifactu
 [EN] List of open source libraries for implementing Spanish Veri*factu (verifactu) tributary program.
 
-[ES] Lista de proyectos de código abierto para implementar VeriFactu.
+[ES] Lista de proyectos de código abierto para implementar VeriFactu, el sistema de verificación de facturas obligatorio en España a partir de 2024.
 
 ## How to list your library / Cómo añadir tu librería
 [EN] Create a pull request over this readme, adding a row to the existing table.
