@@ -1,4 +1,4 @@
-# verifactu
+# Verifactu
 List of open source libraries for implementing Spanish Veri*factu (verifactu) tributary program.
 
 Lista de proyectos de código abierto para implementar VeriFactu.
