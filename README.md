@@ -7,6 +7,6 @@ Lista de proyectos de código abierto para implementar VeriFactu.
 Create a pull request over this readme, adding a row to the existing table.
 Crea un pull request sobre este archivo readme añadiendo tu librería.
 
-|Language|Librería / Library|Estado/Status|
-|--------|------------------|-------------|
-|        |                  |             |
+|Lenguaje / Language|Librería / Library|Estado/Status|
+|-------------------|------------------|-------------|
+|                   |                  |             |
